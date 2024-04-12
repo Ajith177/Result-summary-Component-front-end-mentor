@@ -10,7 +10,6 @@ body, html
 {
     background-color:#f3f4f8;
     height: 100%;
-    /* margin: 0; */
 }
 
 .main
@@ -21,9 +20,6 @@ height: 100%;
 width: 100%;
 justify-content: center;
 align-items: center;
-/* justify-content: center; */
-/* margin-top:11%; */
-/* border:4px solid red; */
 border: 1px solid red;
 }
 
@@ -34,10 +30,8 @@ border: 1px solid red;
     color:white;
     text-align: center;
     border:3px solid black;
-    height: 70%;
-    width:25%;
-    /* margin: auto; */
-    /* width:fit-content; */
+    height: 60%;
+    width:15%;
 }
 
 .content 
@@ -67,9 +61,8 @@ border: 1px solid red;
     margin:20px 0px 20px 200px;
     border:5px solid red;
     border-radius: 50%;
-    width:100px;
+    width:80px;
     margin: auto;
-    height:100px;
 
 }
 
@@ -79,12 +72,11 @@ border: 1px solid red;
 }
 .part2
 {
-    width: 25%;
-    /* border:4px solid greenyellow; */
+    width: 15%;
     padding:0px 30px 0px 30px;
     background-color: #fefeff;
     border-radius: 15px;
-    height: 70%;
+    height: 60%;
 }
 .reaction span{
     color:#e3969b;
